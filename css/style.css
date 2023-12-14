@@ -2330,29 +2330,29 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #bf1212;
+  border-color: #bf1212;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
+  background-color: #bf1212;
+  border-color: #bf1212;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
+  background-color: #dc3545;
+  border-color: #dc3545;
   box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
 }
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #dc3545;
+  border-color: #dc3545;
 }
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #0062cc;
-  border-color: #005cbf;
+  background-color: #dc3545;
+  border-color: #dc3545;
 }
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus, .show > .btn-primary.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
@@ -2360,18 +2360,18 @@ fieldset:disabled a.btn {
 
 .btn-secondary {
   color: #fff;
-  background-color: #6c757d;
-  border-color: #6c757d;
+  background-color: #bf1212;
+  border-color: #bf1212;
 }
 .btn-secondary:hover {
   color: #fff;
-  background-color: #5a6268;
-  border-color: #545b62;
+  background-color: #bf1212;
+  border-color: #bf1212;
 }
 .btn-secondary:focus, .btn-secondary.focus {
   color: #fff;
-  background-color: #5a6268;
-  border-color: #545b62;
+  background-color: #bf1212;
+  border-color: #bf1212;
   box-shadow: 0 0 0 0.2rem rgba(130, 138, 145, 0.5);
 }
 .btn-secondary.disabled, .btn-secondary:disabled {
@@ -19942,7 +19942,7 @@ body:not(.cursor-is--active) .site-overlay {
   top: 0;
   font-size: 2.25rem;
   font-weight: 400;
-  color: #05BFDB;
+  color: #db0505;
 }
 .social-menu--landing .link-subtitle {
   display: block;
@@ -19957,11 +19957,11 @@ body:not(.cursor-is--active) .site-overlay {
   opacity: 0.8;
 }
 .social-menu--landing-glitch .glitch-layer--1 {
-  color: #f0f;
+  color: #ff0000;
   z-index: -2;
 }
 .social-menu--landing-glitch .glitch-layer--2 {
-  color: #0ff;
+  color: #ff00ff;
   z-index: -1;
 }
 .social-menu--landing-glitch li a {
